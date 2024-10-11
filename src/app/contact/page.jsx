@@ -13,7 +13,7 @@ export default function page() {
       <h1 className='font-bold h-60 px-24 py-10 bg-blue-200 capitalize'>contact us</h1>
 
       <p className='h-20 py-16 px-36'> 
-        Fill out the form below and we'll get back to you shortly.
+        Fill out the form below and we&apos;ll get back to you shortly.
       </p>
 
       <div className='flex h-[600px] w-[980px] rounded-xl border-solid border-2 border-slate-300 border-opacity-50 m-auto my-10 p-4'>

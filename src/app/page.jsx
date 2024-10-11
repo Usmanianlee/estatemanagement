@@ -10,7 +10,7 @@ import { movies } from "./data";
 import All from "./components/All";
 
 
-export default function home() {
+export default function Home() {
 
     const [openRent, setOpenRent] = useState(false)
     const [openSale, setOpenSale] = useState(false)
